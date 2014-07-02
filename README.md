@@ -3,7 +3,6 @@ magic8ball
 
 simpleprogram
 
-# Import the modules
 import sys
 import random
 
